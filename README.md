@@ -1,3 +1,3 @@
 # Mara-Vaman
 This is my <br>Second Respiratory
-Author - Vaman
+Author - Mara Vaman
